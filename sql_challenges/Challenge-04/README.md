@@ -1,20 +1,11 @@
 
-### `sql_challenges/challenge-01/README.md`
+### 
 
-```md
-# SQL Challenge 01 – Index Usage
+# 
 
 ## Problem
 To solve the DataLemur Top Three Salaries & Analytic Functions: Databases for Developers
 
-## Schema
-```sql
-CREATE TABLE orders (
-  id BIGINT PRIMARY KEY,
-  customer_id BIGINT,
-  created_at TIMESTAMP,
-  status TEXT
-);
 
 ── sql_challenges/
 │   ├── challenge-01/
